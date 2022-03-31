@@ -7,8 +7,6 @@
 </p>
 -->
 
-- 🌱 &nbsp; I’m currently learning **React-Testing-Library** | **React-Router-Dom** | **React-Query** | **React-Hook-Form**
-
 - 🤓 &nbsp; Curious to learn 💻
 
 ### 📫 &nbsp; You can reach me 
