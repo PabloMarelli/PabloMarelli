@@ -20,7 +20,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
 
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ---
 
