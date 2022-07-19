@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Pablo</h1>
-<h3 align="center">Python and Django Backend Dev 👨‍💻 </h3>
+<h3 align="center">Python and Django Backend Dev</h3>
  
 <!-- 
 <p align="center"> 
@@ -7,20 +7,23 @@
 </p>
 -->
 
-- 🤓 &nbsp; Curious to learn 💻
+I'm a web backend developer from Argentina specialized in Python and Django. Always looking to improve and curious to learn more!
 
 ### 📫 &nbsp; You can reach me 
 
 [![Linkedin: Pablo Marelli](https://img.shields.io/badge/-Pablo%20Marelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-marelli-26a09a225/)](https://www.linkedin.com/in/pablo-marelli-26a09a225/)
-[![Gmail Badge](https://img.shields.io/badge/-Pablo%20Marelli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablomarelli2@gmail.com)](mailto:tsafaelmali@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Pablo%20Marelli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablomarelli2@gmail.com)](mailto:pablomarelli2@gmail.com)
 
 ### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
 
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
----
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
