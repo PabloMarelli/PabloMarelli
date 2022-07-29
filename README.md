@@ -19,9 +19,12 @@ Django is a Python web development framework. It is between the most used/recogn
 [![Linkedin: Pablo Marelli](https://img.shields.io/badge/-Pablo%20Marelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-marelli-26a09a225/)](https://www.linkedin.com/in/pablo-marelli-26a09a225/)
 [![Gmail Badge](https://img.shields.io/badge/-Pablo%20Marelli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablomarelli2@gmail.com)](mailto:pablomarelli2@gmail.com)
 
+### 📝 &nbsp; Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Getting started with Django](https://medium.com/@pablo.marelli.kenny/getting-started-with-django-7dd31bfeeb4c)
+<!-- BLOG-POST-LIST:END -->
+
 ### Languages and Tools:
-
-
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
