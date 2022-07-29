@@ -11,7 +11,7 @@ I'm a web backend developer from Argentina specialized in Python and Django. Alw
 
 Why Django?
 
-Django is a Python web development framework. It is between the most used/recognized Python frameworks alongside Flask and FastAPI. Some of the pro's of using Django are constant developer errors feedback, simplicity, pre solved problems, integrated admin site, user system, automated testing, extensive documentation, REST Framework also allow Django to become a backend server capable of connecting with any frontend framework and language as it is the trend in the industry nowadays. JavaScript dominates the frontend, his more popular frameworks are Vue, Angular and React. Some of the most popular django apps are Instagram, Spotify, YouTube, Dropbox, Pinterest and many more.
+Django is a Python web development framework. It is between the most used/recognized Python frameworks alongside Flask and FastAPI. Some of the pro's of using Django are constant developer errors feedback, simplicity, pre solved problems, integrated admin site, user system, automated testing, extensive documentation. Django REST Framework also allow it to become a backend server capable of connecting with any frontend framework and language as it is the trend in the industry nowadays. JavaScript dominates the frontend, his more popular frameworks are Vue, Angular and React. Some of the most popular django apps are Instagram, Spotify, YouTube, Dropbox, Pinterest and many more.
 
 
 ### 📫 &nbsp; You can reach me 
