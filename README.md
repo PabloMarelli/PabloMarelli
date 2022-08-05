@@ -24,7 +24,7 @@ Django is a Python web development framework. It is between the most used/recogn
 - [Getting started with Django](https://medium.com/@pablo.marelli.kenny/getting-started-with-django-7dd31bfeeb4c)
 <!-- BLOG-POST-LIST:END -->
 
-### Python and Django Hightlighted project
+### Python and Django hightlighted portfolio project
 <!-- BLOG-POST-LIST:START -->
 - [Prode REST API](https://github.com/PabloMarelli/prode-rest)
 <!-- BLOG-POST-LIST:END -->
