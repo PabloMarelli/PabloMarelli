@@ -27,6 +27,7 @@ Django is a Python web development framework. It is between the most used/recogn
 ### Python and Django hightlighted portfolio project
 <!-- BLOG-POST-LIST:START -->
 - [Django REST Framework Prode REST API](https://github.com/PabloMarelli/prode-rest)
+- [Django REST Framework Ecommerce REST API](https://github.com/PabloMarelli/ecommerce-django)
 - [Django Fullstack Blog](https://github.com/PabloMarelli/django-fullstack-blog)
 <!-- BLOG-POST-LIST:END -->
 
