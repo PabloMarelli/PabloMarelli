@@ -7,7 +7,7 @@
 </p>
 -->
 
-I'm a web backend developer from Argentina wich main stack is Python and Django. Started diving into Flask and FastAPI. Interiorized with Docker and AWS as cloud service. Perfectioning my Python skills with in depth OOP and design patterns. Looking foward to learn about MongoDB and Redis noSQL databases. Always looking to improve and curious to learn more!
+I'm a web backend developer from Argentina wich main stack is Python and Django with PostgreSQL. Started diving into Flask and FastAPI. Interiorized with Docker and AWS as cloud service. Perfectioning my Python skills with in depth OOP and design patterns. Looking foward to learn about MongoDB and Redis noSQL databases. Always looking to improve and curious to learn more!
 
 ### Why Django?
 
