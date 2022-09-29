@@ -7,7 +7,7 @@
 </p>
 -->
 
-I'm a web backend developer from Argentina specialized in Python and Django. Always looking to improve and curious to learn more!
+I'm a web backend developer from Argentina wich main stack is Python and Django. Started diving into Flask and FastAPI. Interiorized with Docker and AWS as cloud service. Perfectioning my Python skills with in depth OOP and design patterns. Looking foward to learn about MongoDB and Redis noSQL databases. Always looking to improve and curious to learn more!
 
 ### Why Django?
 
@@ -26,9 +26,12 @@ Django is a Python web development framework. It is between the most used/recogn
 
 ### Python and Django hightlighted portfolio project
 <!-- BLOG-POST-LIST:START -->
-- [Django REST Framework Prode REST API](https://github.com/PabloMarelli/prode-rest)
-- [Django REST Framework Ecommerce REST API](https://github.com/PabloMarelli/ecommerce-django)
+- [DRF Prode REST API](https://github.com/PabloMarelli/prode-rest) 
+An API project that runs in Docker ecosystem using Django REST Framework about a prode/sports lottery that lets users compete in a friendly app with sports results and keep track of the scores and many more features.
+- [DRF Ecommerce REST API](https://github.com/PabloMarelli/ecommerce-django)
+And ecommerce REST API with products, transactions, category, tags and a lot more!
 - [Django Fullstack Blog](https://github.com/PabloMarelli/django-fullstack-blog)
+Django finances blog with posts, compound interest calculator, message system and much more!
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
